@@ -4,12 +4,11 @@ This is a user login and registration app using Node.js, Express, PassportJS, Mo
 
 ### Usage
 
-```sh
+```
 $ npm install
 ```
 ```
 $ npm run dev
-
-# Visit http://localhost:5000
 ```
+Visit http://localhost:5000
 
